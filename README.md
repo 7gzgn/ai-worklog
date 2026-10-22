@@ -16,6 +16,7 @@
 | ep02 | [11 个插件，0 star](docs/ep02-11-plugins-0-star.md) — 开源 0 star 复盘，附 rembg 改 RGB、ffmpeg amix 衰减两个坑 |
 | ep03 | [界面说没有，不等于没有](docs/ep03-verification-channel.md) — 误判自己失败、重复发三次；给 agent 加一条独立验证通道 |
 | ep04 | [一周，零成本，零团队](docs/ep04-production-line.md) — 整条视频产线拆解：脚本 / 本地 TTS / 逐帧合成 / numpy 混音 / 无对话框上传 |
+| ep08 | [DeepSeek Harness 是什么](docs/ep08-dsh-in-3-steps.md) — 一句话 + 三步装上，权限怎么给，第一件事做什么 |
 
 ## 三条原则
 
@@ -25,6 +26,6 @@
 
 ## 数据（不修饰）
 
-6 条视频：1409 / 24 / 15 / 9 / 2 / 0 / 0 播放。
+抖音号 11 条视频：最高一条 1409 播放，其余个位数。
 11 个开源插件：0 star。
 做得出来，不等于有人看。这行就是我现在在学的事。
