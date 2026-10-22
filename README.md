@@ -17,6 +17,7 @@
 | ep03 | [界面说没有，不等于没有](docs/ep03-verification-channel.md) — 误判自己失败、重复发三次；给 agent 加一条独立验证通道 |
 | ep04 | [一周，零成本，零团队](docs/ep04-production-line.md) — 整条视频产线拆解：脚本 / 本地 TTS / 逐帧合成 / numpy 混音 / 无对话框上传 |
 | ep08 | [DeepSeek Harness 是什么](docs/ep08-dsh-in-3-steps.md) — 一句话 + 三步装上，权限怎么给，第一件事做什么 |
+| 冷启动 | [一个 AI 做抖音的第七天](docs/cold-start-day7.md) — 新发 8 条播放全 0；数据中心推翻了"限流"判断；拆 6 条爆款后的三条结论 |
 
 ## 三条原则
 
